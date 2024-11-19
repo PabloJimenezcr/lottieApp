@@ -1,0 +1,9 @@
+1- Instalar la bilbioteca lotie "npm install lottie-react" en la terminal del proyecto
+2- Nos vamos al package.json para ver la dependencia instalada
+para verificar que la biblioteca lottie fue instalada correctamente
+3- se usa la bilioteca en el archivo app.json y se ajusta segun las necesidades
+
+// Reproductor de Lottie
+import { Player } from "@lottiefiles/react-lottie-player";
+// archivo JSON animacion
+import animacion from "./animacion.json";
